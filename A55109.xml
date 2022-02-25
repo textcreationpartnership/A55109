@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for the late agents of the army against the proceedings of the gen. officers to punish them by martiall law.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55109</idno>
+            <idno type="STC">Wing P2521A</idno>
+            <idno type="STC">ESTC R221493</idno>
+            <idno type="EEBO-CITATION">99832791</idno>
+            <idno type="PROQUEST">99832791</idno>
+            <idno type="VID">37265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37265)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for the late agents of the army against the proceedings of the gen. officers to punish them by martiall law.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Creased, stained and torn, with some print show-through; cropped at head, affecting pagination.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37265:1" rendition="simple:additions"/>
+            <head>A Plea for the late Agents of the Army, a<g ref="char:EOLhyphen"/>gainſt the proceedings of the Gen. Officers to puniſh them by Martiall Law.</head>
+            <p>
+               <hi>Firſt.</hi> THe arbitrary Government of the Army by Law Mar<g ref="char:EOLhyphen"/>tiall (which is only neceſſary when an Army is march<g ref="char:EOLhyphen"/>ing againſt its enemie, or when no other Courts of ju<g ref="char:EOLhyphen"/>ſtice in a land are open and free) was wholly diſſol<g ref="char:EOLhyphen"/>ved at the Rendezvouz at <hi>New-market,</hi> upon the 4, and 5. of <hi>Iune</hi> laſt, and this I prove by theſe following reaſons.</p>
+            <p n="1">1. They aſſociated themſelves only as a company of free Commons of <hi>England,</hi> to ſtand together upon the iuſt principles, and law of na<g ref="char:EOLhyphen"/>ture and nations, to recover their own and all the peoples juſt rights and liberties. <hi>See the Solemn Engagement upon Iune</hi> 4. The words are theſe. <hi>We the Officers and Soldiers of the Army ſubſcribing hereunto, doe hereby declare, agree, and promiſe to and with each other, that we ſhal not wil<g ref="char:EOLhyphen"/>ingly disband, nor divide, nor ſuffer our ſelves to be disbanded nor divided, un<g ref="char:EOLhyphen"/>till we have ſecurity, that we as private men, or other the free-borne people of England ſhall not remaine ſubiect to the like oppreſſion, injury, or abuſe as have been attempted.</hi> Compare the latter end of page the 4. with page 5. And upon their march towards <hi>London,</hi> in proſecution of this de<g ref="char:EOLhyphen"/>ſigne, whereupon they aſſociated, the Generall declared in his letter to the City, <hi>that they as Engliſh men inſiſted upon the ſettlement of the peace of the Kingdome, and the liberty of the Subiect, which they had right to de<g ref="char:EOLhyphen"/>mand.</hi> See the letter from the Generall, and the Generall Officers at <hi>Royſton</hi> upon <hi>Iune</hi> 10. pag. 2. 3. And in their further opening of their meaning and intentions in their agreeing together, or aſſociating as before, they declared upon <hi>Iune</hi> 14. <hi>That they were not a mercenary Ar<g ref="char:EOLhyphen"/>my, hired to ſerve the Arbitary power of a State, but continued in Armes in iudgment and conſcience for the defence of their own and the peoples iuſt rights and liberties.</hi> Now the Army thus refuſing to ſerve the arbitrary pow<g ref="char:EOLhyphen"/>er of the State, and agreeing together as Engliſh men, to ſtand upon principles of right and freeedome. From hence.</p>
+            <p n="1">1. Its cleare, that the Officers and Soldiers kept in a body, and ſo were an Army, not by the will of the State, but by their owne mutuall A<g ref="char:EOLhyphen"/>greement.</p>
+            <p n="2">2. From thence its as cleare, that they not being an Army by the
+<pb facs="tcp:37265:2"/>States will, they were not under thoſe rules of Martiall Govern<g ref="char:EOLhyphen"/>ment, which were given by the will of the State to rule thoſe which were a Military body or Army by their will and power.</p>
+            <p n="3">3. From thence its alſo as cleare, that the continuing an Army at that time, not by the States will, power or command, but their mutu<g ref="char:EOLhyphen"/>all agreement, they could be under no other government as an Army but ſuch as they did conſtitue or appoint for themſelves by mutuall agreement, and this leads to a 2. Reaſon, proving the diſſolution of the Armies government by Martiall law.</p>
+            <p n="2">2. The Soldiers with ſome Officers of the Army, having by mutu<g ref="char:EOLhyphen"/>all agreement gathered themſelves into, or at leaſt continued them<g ref="char:EOLhyphen"/>ſelves a Military body or Army to ſtand upon principles of right and freedome, did by the ſame mutuall Agreement with or Engagement to each other frame, conſtitute, or appoint a forme of Government for themſelves in their proſecuting that juſt deſigne of common right and freedome for themſelves and the nation.</p>
+            <p>The words of the Engagement, pag. 4. 5. are theſe. <hi>We doe hereby de<g ref="char:EOLhyphen"/>clare, agree, and promiſe to and with each other, that we ſhall not willingly disband, nor divide, nor ſuffer our ſelves to be disbanded or divided without ſatisfaction in relation to our grievances and deſires, hertofore preſented &amp; ſe<g ref="char:EOLhyphen"/>curity that we as private men or other the free born people of England, ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll not remaine ſubiect to the like oppreſſion and iniury, as have been attempted, and this ſatisfaction and ſecurity to be ſuch as ſhall be agreed unto by a Councell to conſiſt of thoſe generall Officers of the Army (who have concurred with the Army in the premiſes) with two Commiſſion Officers, and two Soldiers to be choſen for each Regiment, who have concurred and ſhall concurre with us in the premiſes and in this agreement.</hi> Hereby a new Councell was conſtitu<g ref="char:EOLhyphen"/>ted contrary to all Martiall Law and Diſcipline, by whom only they ingaged to be ordered in their proſecution of the ends for which they aſſociated, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſequence ſeeing they continued an Army by their owne wills, and only to proſecute thoſe ends, this Engagement to be ordered only by that new Councell in their proſecution of thoſe ends extends to a whole rule of them as an Army.</p>
+            <p>Now that this Councell was wholly new, and in away diverſe or different from all Martiall Courts or Councell of Warre, that ever the Sun beheld in a mercenary Armie, and as different from the Councell by which this Army was formerly governed appeares thus.</p>
+            <p n="1">1. The Members of this Councell by which they ingaged to be or<g ref="char:EOLhyphen"/>dered
+<pb facs="tcp:37265:2"/>are <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the Army.</p>
+            <p n="1">1. The quallity of them is different, none but ſuch as concurred with, in diſobeying the Parliament, and in the principles of common right and freedome upon which they ſtood, were to be Members of this Councell, neither the Generall, nor the Lievtenant Generall themſelves were to be Members of this Councell unleſſe they had concurred in owning the Regiments refuſall to disband, and in their ingagement or aſſociation, and by conſequence they had been no Of<g ref="char:EOLhyphen"/>ficers as will appeare hereafter.</p>
+            <p>In this all the Orders of warre and Martiall Lawes were broken, for if the Generall, Lievtenant Generall, and Comiſſary Gen. <hi>Ireton,</hi> had not concurred, they could not all have caſhiered one Officer that did concurre, all the Soldiers had been ingaged to oppoſe them, nay they could not have caſhiered one Soldier that joyned in the ingagement, for they promiſed each to other, not to ſuffer themſelves to be divided before the ends of their Engagement was accompliſhed.</p>
+            <p n="2">2. In this new Councell, the ſtation of the Members in the Army is different from the ſtation of all Members of former Councells, by the Engagement, there was to be two Soldiers in no office, out of every Regiment to have voices equall to the Generall himſelf in all votes.</p>
+            <p n="3">3. The number of the Members of this Councell is different from all cuſtomes and rules of Martiall Diſcipline in this Councell, there was to be but foure of every Regiment, with the Generall Officers which concurred.</p>
+            <p n="2">2. This new Councell differed from the rules of warre in the manner of its conſtitution, this was not to be conſtituted by the Gen. will, but in a Parliamentary way by the Soldiers free election, the Gen is bound from calling an Officer to the Councell unleſſe he be choſen by his Regiment.</p>
+            <p n="3">3. Reaſon, proving the diſſolution of Martiall Government in the Army.</p>
+            <p>The Gen. in aſſociating with the Soldiers did in the very Engage<g ref="char:EOLhyphen"/>ment, give away all his power of exerciſing Martiall diſcipline, he in<g ref="char:EOLhyphen"/>gaged to them and they to him, that they would not ſuffer themſelves to be disbanded or divided, till the ends of their uniting were obtained hereby he diveſted himſelf of his arbitrary power of caſhiering Officers and Soldiers at his pleaſure, this is a dividing which he ingaged nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:37265:3"/>to attempt nor ſuffer, likewiſe he diveſted himſelf of power to command the Soldiers to march to what diſtance he pleaſeth one from another this is another kind of diviſion.</p>
+            <p n="4">4. Reaſon, proving the diſſolution of the government by law martial. The whole Army by agreement or joint conſent, caſhiered all Offi<g ref="char:EOLhyphen"/>cers as <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w market Heath,</hi> that would not aſſociate with them, and in<g ref="char:EOLhyphen"/>gage to ſtand for common right and freedom though againſt the Par<g ref="char:EOLhyphen"/>liament &amp; ſo they ho<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed divers Officers out of the field, unhorſed ſome and rent their <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oaths, and beat them: and this in the face of the Gen. and all theſe acts, had been death by Martiall Law: but this was an actuall declaration that the Army did admit of Officers by mutuall a<g ref="char:EOLhyphen"/>greement only, and therefore Government by law Martiall was diſ<g ref="char:EOLhyphen"/>ſolved unleſſe it had been eſtabliſhed by mutuall conſent throughout the Army, for Officers at that time being only admitted by mutuall conſent they could have no power, but what was betruſted to them by the Soldiers.</p>
+            <p n="2">2. Plea, But in caſe the goverment of the Army by law martial had not been diſſolved by a mutuall ingagement, yet the very being of peace did diſſolve it, for in the Petition of Right its declared that no perſon ought to be adjudged by law martial except in time of war, &amp; that all Commiſſions given to execute martial law in time of peace are contrary to the lawes and ſtatutes of the Kingdome, and it was the Parliaments complaint that martiall law, was then commanded to be executed upon Soldiers for robbery, muteny or murther, and it was ſetled as the undoubted right of every Engliſh man, that he ſhould be puniſhable only in the ordinary Courts of juſtice, according to the lawes and ſta<g ref="char:EOLhyphen"/>tutes of the kingdome. By all this it appeares that its illegall and uniuſt for the offi<g ref="char:EOLhyphen"/>cers of the Army to try or puniſh any agent or other by law martiall upon pretence of muteny or any other offence: the whole Army ſtand as Engliſhmen, and if they offend are not ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpted from the proceedings againſt them, &amp; puniſhments to be inflicted up<g ref="char:EOLhyphen"/>on them by the lawes and ſtatutes, and therefore cannot in iuſtice be ſubiect alſo to law martiall, ſo that al Agents and Soldiers now accuſed for mutiny betray their own and their Countryes Liberty if they ſhall ſubmit to be tryed in any other way then by the known Lawes and ſtatutes of the Land.</p>
+         </div>
+         <div type="note_to_the_reader">
+            <p>
+               <hi>Courteous Reader, Mr.</hi> Matthew Simmons <hi>in Aldersgate ſtreet, by a ſpeciall Order from the Lords, printed all the Armies declarations in one vo<g ref="char:EOLhyphen"/>lume; which thou mayeſt buy of him for</hi> 12. <hi>or</hi> 14, <hi>d. in the reading of which comparing them with the conſtant ſerious of their actions, thou ſhall clearly find ther was never greater diviations &amp; back ſlidings amongſt the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſt of the ſons of men from their declared principles, &amp; thou &amp; the kingdom mayſt prin<g ref="char:EOLhyphen"/>cipally blame Lie. Ge. Cromwell and his ſon in Law, Corn, Gen. Ireton, be<g ref="char:EOLhyphen"/>ing both now tranſcendently Kingified and Lordified.</hi>
+            </p>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
